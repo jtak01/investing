@@ -42,13 +42,14 @@ Most satisfying:
 
 Contributions:
     Backend:
-        Max -MongoDB, some NodeJS server side
+        Max - MongoDB, some NodeJS server side
         Sam - NodeJS server side, some MongoDB
-        Jun - testing, integrated with frontend
+        Jun - testing, integration with frontend, some MongoDB, 
+              Nodejs
     Frontend:
         Victor - HTML, CSS styling
         Sam - ejs files, connecting to server side
-        Jun - testing, integrated with backend
+        Jun - testing, integrated with backend, CSS styling
     APIs:
         Justin, Sam - IEX
         Max - SendGrid
