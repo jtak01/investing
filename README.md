@@ -1,5 +1,7 @@
 ## Comp20 Final Project: Stock Investment Simulator
 
+URL: https://tranquil-tundra-43931.herokuapp.com/
+
 Backend: Mongodb, NodeJS server
 Frontend: HTML/CSS, JQuery
 APIs: IEX (Investor's exchange), SendGrid
